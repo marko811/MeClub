@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "99382963052",
+    "firebase_url": "https://meclub-dev.firebaseio.com",
+    "project_id": "meclub-dev",
+    "storage_bucket": "meclub-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99382963052:android:509b8df8715910cb",
+        "android_client_info": {
+          "package_name": "com.meclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99382963052-kmm464ufe30i2k3mdc3jkb4pn1clqe58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmbIaIE3zvGXNXreZ99N3Q9D3wEmGXMRg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
